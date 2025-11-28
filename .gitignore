@@ -36,8 +36,7 @@ wheels/
 # 输出目录（可选，如果不想提交生成的 PDF）
 # output/
 
-# 生成记录文件（包含敏感信息）
-generation_records.json
+
 
 # 系统文件
 .DS_Store
